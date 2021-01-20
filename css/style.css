@@ -96,6 +96,7 @@ output {
     overflow: hidden;
     background-image: url(../img/mei.jpg);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 
@@ -109,6 +110,7 @@ output {
     min-width: 300px;
     background-image: url(../img/mei.jpg);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 div#thumbnails-btm_container.onRight, 
 div#thumbnails-btm_container.rightChartFullScreenToggled
